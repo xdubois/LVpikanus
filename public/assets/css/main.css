@@ -1,0 +1,32 @@
+/* Div */
+.row {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+.lolmargin {
+  margin:5px;
+}
+
+.pika-menu {
+}
+
+.pika-comment {
+	margin-top: 12px;
+}
+
+.padded { padding-right: 10px; padding-bottom: 10px; }
+
+#result-list {
+	margin-top:25px;
+	margin-left:25px;
+	font-size:14px;
+}
+
+#result-list a:hover {
+	color:black;
+	font-size:14px;
+	text-decoration:none;
+}
+

@@ -1,0 +1,9 @@
+#ignore this shit
+
+
+pika.sublime-project
+pika.sublime-workspace
+
+public/images
+app/config/database.php
+/vendor
